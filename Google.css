@@ -1,0 +1,61 @@
+input {
+width: 40%;
+float: initial;
+}
+
+img{
+padding-top: 80px;
+}
+
+.top{
+padding-top: 7px;
+padding-left: 6px;
+font-size: 14px;
+font-weight: lighter;
+word-spacing: 15px; 
+font-family: Arial, Helvetica, sans-serif;
+float: left;
+}
+
+.right{
+padding-top: 7px;  
+padding-left: 6px;
+font-size: 14px;
+font-weight: lighter;
+word-spacing: 15px; 
+font-family: Arial, Helvetica, sans-serif;
+float: right;
+}
+
+.bottom{
+font-weight: lighter;
+font-family: Arial, Helvetica, sans-serif;
+word-spacing: 10px;
+position:fixed;
+bottom: 0;
+padding: 7px;
+
+}
+
+button{ 
+font-size: 15px;
+background-color: rgb(235, 235, 235);
+border: none;
+width: 130px;
+height: 23px;
+font-family: Arial, Helvetica, sans-serif
+  }
+
+.rf{
+position:fixed;
+bottom: 0;
+right: 0;
+padding: 7px;
+}
+
+.lf{
+position:fixed;
+bottom: 0;
+left: 0;  
+padding: 7px;
+}
